@@ -1,3 +1,4 @@
+# Felix's testing change
 # Instances and AMIs<a name="ec2-instances-and-amis"></a>
 
 An *Amazon Machine Image \(AMI\)* is a template that contains a software configuration \(for example, an operating system, an application server, and applications\)\. From an AMI, you launch an *instance*, which is a copy of the AMI running as a virtual server in the cloud\. You can launch multiple instances of an AMI, as shown in the following figure\.
